@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCRUM2NET", "SCRUM2NET.csproj", "{892B070E-0DA4-47EA-AA6A-217CC6B25119}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cajero", "Cajero.csproj", "{BB64BAC8-F7B2-4827-A902-7CFE43F3F40E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{892B070E-0DA4-47EA-AA6A-217CC6B25119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{892B070E-0DA4-47EA-AA6A-217CC6B25119}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{892B070E-0DA4-47EA-AA6A-217CC6B25119}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{892B070E-0DA4-47EA-AA6A-217CC6B25119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB64BAC8-F7B2-4827-A902-7CFE43F3F40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB64BAC8-F7B2-4827-A902-7CFE43F3F40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB64BAC8-F7B2-4827-A902-7CFE43F3F40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB64BAC8-F7B2-4827-A902-7CFE43F3F40E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2BCBEF3B-1C5B-488C-AB6E-F9915F4C408D}
+		SolutionGuid = {ECEA0267-1EA5-4261-8DAD-BA18D968C03E}
 	EndGlobalSection
 EndGlobal

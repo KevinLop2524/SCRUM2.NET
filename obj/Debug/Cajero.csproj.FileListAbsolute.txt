@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\SCRUM2NET\SCRUM2.NET\bin\Debug\Cajero.exe.config
+C:\Users\Administrador\source\repos\SCRUM2NET\SCRUM2.NET\bin\Debug\Cajero.exe
+C:\Users\Administrador\source\repos\SCRUM2NET\SCRUM2.NET\bin\Debug\Cajero.pdb
+C:\Users\Administrador\source\repos\SCRUM2NET\SCRUM2.NET\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\SCRUM2NET\SCRUM2.NET\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SCRUM2NET\SCRUM2.NET\obj\Debug\Cajero.exe
+C:\Users\Administrador\source\repos\SCRUM2NET\SCRUM2.NET\obj\Debug\Cajero.pdb
